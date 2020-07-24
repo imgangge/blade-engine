@@ -1,0 +1,22 @@
+{
+    "name": "talk/blade-engine",
+    "description": "Use Laravel Blade templates engine without the full Laravel framework.",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "albert",
+            "email": "ccuniverse@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "illuminate/contracts": ">=5.1,<5.4",
+        "illuminate/view": ">=5.1,<5.4",
+        "illuminate/events": ">=5.1,<5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Talk\\": "src/"
+        }
+    }
+}
