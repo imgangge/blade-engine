@@ -2,7 +2,7 @@
 Use Laravel Blade templates engine without the full Laravel framework.
 
 ### 声明
-感谢 [ailuoy/laravel-context](https://github.com/duncan3dc/blade) 。  
+感谢 [duncan3dc/blade](https://github.com/duncan3dc/blade) 。  
 因项目需求新增功能，故而新建仓库。
 
 
